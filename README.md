@@ -21,7 +21,7 @@ A sleek and responsive movie browsing application built with [Angular](https://a
 
 ```bash
 # Clone the repository
-git clone https:
+git clone https://github.com/captianam/movie.git
 cd movie-browser-app
 
 # Install dependencies
